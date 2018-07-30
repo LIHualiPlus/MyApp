@@ -12,3 +12,17 @@ E:\项目\例子\MyApp\SimpleRouting\MyApp.Data\obj\Debug\MyApp.Data.csproj.Copy
 E:\项目\例子\MyApp\SimpleRouting\MyApp.Data\obj\Debug\MyApp.Data.dll
 E:\项目\例子\MyApp\SimpleRouting\MyApp.Data\obj\Debug\MyApp.Data.pdb
 E:\项目\例子\MyApp\SimpleRouting\MyApp.Data\obj\Debug\MyApp.Data.csprojResolveAssemblyReference.cache
+F:\MyApp2\api\MyApp.Data\bin\Debug\MyApp.Data.dll.config
+F:\MyApp2\api\MyApp.Data\bin\Debug\MyApp.Data.dll
+F:\MyApp2\api\MyApp.Data\bin\Debug\MyApp.Data.pdb
+F:\MyApp2\api\MyApp.Data\bin\Debug\EntityFramework.dll
+F:\MyApp2\api\MyApp.Data\bin\Debug\EntityFramework.SqlServer.dll
+F:\MyApp2\api\MyApp.Data\bin\Debug\EntityFramework.xml
+F:\MyApp2\api\MyApp.Data\bin\Debug\EntityFramework.SqlServer.xml
+F:\MyApp2\api\MyApp.Data\bin\Debug\zh-Hans\EntityFramework.resources.dll
+F:\MyApp2\api\MyApp.Data\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+F:\MyApp2\api\MyApp.Data\obj\Debug\MyApp.Data.csprojResolveAssemblyReference.cache
+F:\MyApp2\api\MyApp.Data\obj\Debug\MyApp.Data.csproj.CoreCompileInputs.cache
+F:\MyApp2\api\MyApp.Data\obj\Debug\MyApp.Data.csproj.CopyComplete
+F:\MyApp2\api\MyApp.Data\obj\Debug\MyApp.Data.dll
+F:\MyApp2\api\MyApp.Data\obj\Debug\MyApp.Data.pdb
