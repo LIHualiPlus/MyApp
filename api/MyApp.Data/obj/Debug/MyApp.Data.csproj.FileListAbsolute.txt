@@ -1,0 +1,14 @@
+E:\项目\例子\MyApp\SimpleRouting\MyApp.Data\bin\Debug\MyApp.Data.dll.config
+E:\项目\例子\MyApp\SimpleRouting\MyApp.Data\bin\Debug\MyApp.Data.dll
+E:\项目\例子\MyApp\SimpleRouting\MyApp.Data\bin\Debug\MyApp.Data.pdb
+E:\项目\例子\MyApp\SimpleRouting\MyApp.Data\bin\Debug\EntityFramework.dll
+E:\项目\例子\MyApp\SimpleRouting\MyApp.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\项目\例子\MyApp\SimpleRouting\MyApp.Data\bin\Debug\EntityFramework.xml
+E:\项目\例子\MyApp\SimpleRouting\MyApp.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\项目\例子\MyApp\SimpleRouting\MyApp.Data\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\项目\例子\MyApp\SimpleRouting\MyApp.Data\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\项目\例子\MyApp\SimpleRouting\MyApp.Data\obj\Debug\MyApp.Data.csproj.CoreCompileInputs.cache
+E:\项目\例子\MyApp\SimpleRouting\MyApp.Data\obj\Debug\MyApp.Data.csproj.CopyComplete
+E:\项目\例子\MyApp\SimpleRouting\MyApp.Data\obj\Debug\MyApp.Data.dll
+E:\项目\例子\MyApp\SimpleRouting\MyApp.Data\obj\Debug\MyApp.Data.pdb
+E:\项目\例子\MyApp\SimpleRouting\MyApp.Data\obj\Debug\MyApp.Data.csprojResolveAssemblyReference.cache
